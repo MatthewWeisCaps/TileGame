@@ -1,0 +1,22 @@
+this is just a silly project I made after following VanZeeben's youtube
+tutorials on java game making.
+
+some classes (Game.java, InputHandler.java, Tile.java, and Level.java) are almost directly
+from his tutorial. Other classes like screen essentially do the same thing but were coded by me
+
+other classes (items, lighting, buffs, "shaders") were made by me
+
+the class layout is derived from his tutorial, although I've expanded on it a lot
+
+the point is that this project was educational and is built on top of what VanZeeben did
+
+IMPORTANT NOTE:
+!graphics are all computed with a raster using the CPU!!!!! (YES YOU READ THAT RIGHT)
+!this was how the tutorial was done, i would NEVER DO THIS unless I was just coding for fun
+!AGAIN, THE GRAPHICS WILL NOT BE ANYTHING CLOSE TO OPTIMAL. THIS WAS EDUCATIONAL.
+
+controls:
+WSAD/up,down,left,right to move
+E enables lighting
+
+(project was done in 2013 or so, just uploading now in late 2015)
